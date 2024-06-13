@@ -1,2 +1,2 @@
 # Resume
-This is a simple resume eith the help of HTML and CSS
+This is a simple resume with the help of HTML and CSS
